@@ -1,16 +1,36 @@
-# React + Vite
+# 💼 Portfolio — Chloé Baisse
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Portfolio personnel conçu et développé par Chloé Baisse, Conceptrice Développeuse d'Applications en alternance.
 
-Currently, two official plugins are available:
+## 🛠️ Technologies utilisées
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- **Vite.js** — environnement de développement rapide
+- **React** — construction des composants UI
+- **Tailwind CSS** — stylisation utilitaire et responsive
+- **EmailJS** — envoi de messages depuis le formulaire de contact sans backend
 
-## React Compiler
+## 📋 Fonctionnalités
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Présentation du parcours et des compétences
+- Projets réalisés avec descriptions et technologies
+- Formulaire de contact fonctionnel
+- Design minimaliste lumineux, responsive mobile & desktop
+- Animations fluides
 
-## Expanding the ESLint configuration
+## 🚀 Lancer le projet en local
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+# Installer les dépendances
+npm install
+
+# Lancer le serveur de développement
+npm run dev
+```
+
+## 📬 Contact
+
+Vous pouvez me contacter directement via le formulaire de contact du portfolio.
+
+---
+
+*Conçu avec soin par Chloé Baisse — Réunion 🌺*
